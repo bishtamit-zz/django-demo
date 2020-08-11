@@ -13,3 +13,6 @@
 - start the app `python manage.py runserver 0.0.0.0:8000`
 - open url [localhost:8000](http://localhost:8000)
 - you will see a page that is generated from index.html and models.py Post class
+
+## screenshot  
+![image](example.png "example")
